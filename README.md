@@ -14,7 +14,7 @@ Every request your application sends to the Google URL Shortener API needs to id
 
 ### Using OAuth 2.0 for Server to Server Applications
 IMPORTANT follow this link: 
-https://developers.google.com/api-client-library/python/auth/service-accounts
+https://developers.google.com/api-client-library/python/auth/service-accounts to create new project on google and achive a json file to pass to the code.
 
 ## required package
 google-api-python-client
